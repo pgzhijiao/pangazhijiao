@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "version": 1001,
+  "published_at": "2026-04-29T10:55:00Z",
+  "payload": {
+    "file": "payload/payload_v1001.bin",
+    "sha256": "TO_BE_FILLED",
+    "size": 0
+  },
+  "mirrors": [
+    {
+      "name": "github_raw",
+      "url": "https://raw.githubusercontent.com/<你的用户名>/proxy-payloads/main/payload/payload_v1001.bin",
+      "priority": 10
+    }
+  ]
+}
