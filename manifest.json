@@ -1,16 +1,17 @@
 {
   "schema": 1,
   "version": 1001,
-  "published_at": "2026-04-29T10:55:00Z",
+  "published_at": "2026-04-29T11:15:00Z",
+  "announcement": "节点已更新，系统将自动选路。",
   "payload": {
     "file": "payload/payload_v1001.bin",
-    "sha256": "TO_BE_FILLED",
-    "size": 0
+    "sha256": "e5fee78555769b7cb9731326f9e66829b23ad1d922ade94f565663cf6ac2a951",
+    "size": 3732
   },
   "mirrors": [
     {
       "name": "github_raw",
-      "url": "https://raw.githubusercontent.com/<你的用户名>/proxy-payloads/main/payload/payload_v1001.bin",
+      "url": "https://raw.githubusercontent.com/pgzhijiao/pangazhijiao/main/payload/payload_v1001.bin",
       "priority": 10
     }
   ]
