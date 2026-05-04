@@ -8,6 +8,8 @@ on:
 jobs:
   collect_and_encrypt:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 赋予 Actions 写入权限
     steps:
       - name: 检出代码
         uses: actions/checkout@v3
