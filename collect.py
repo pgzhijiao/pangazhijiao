@@ -5,9 +5,7 @@ import os
 
 # 配置采集地址 (raw 链接)
 SOURCES = [
-    "https://raw.githubusercontent.com/freefq/free/master/v2",
-    "https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray",
-    "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all"
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt"
 ]
 
 # 加密配置 (必须与 Rust 终端一致)
