@@ -6,6 +6,7 @@ import os
 # 配置采集地址 (raw 链接)
 SOURCES = [
     "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt",
+    "https://raw.githubusercontent.com/pgzhijiao/pangazhijiao/main/sd.txt",
     "https://shz.al/TCWx"
 ]
 
